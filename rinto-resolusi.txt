@@ -4,4 +4,4 @@ Rinto Prasetyo Adi
 2. Membuat platform untuk pengelolaan video
 3. Membuat forum diskusi
 4. Membuat merch shop
-5. Membuat kolaborasi lebih banyak
+
